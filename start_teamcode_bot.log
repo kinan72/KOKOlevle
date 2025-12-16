@@ -1,0 +1,107 @@
+2025-12-16 23:42:37,477 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:42:37,477 - INFO - Starting client for ID: 4339467921
+2025-12-16 23:42:42,194 - INFO - Token decoded. Account ID: 14109881730
+2025-12-16 23:42:42,196 - INFO - Final token constructed successfully.
+2025-12-16 23:42:42,263 - INFO - [WHISPER] Connected to 98.98.162.66:39801
+2025-12-16 23:42:42,355 - INFO - [ONLINE] Connected to 98.98.162.83:39699
+2025-12-16 23:44:05,512 - INFO - [AUTO] Auto start loop started for team 2101605
+2025-12-16 23:44:45,562 - INFO - [AUTO] Left team 2101605 to rejoin again.
+2025-12-16 23:45:58,707 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:45:58,707 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:02,284 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:02,284 - INFO - Restarting the entire application in 5 seconds...
+2025-12-16 23:46:07,285 - WARNING - Initiating bot restart...
+2025-12-16 23:46:07,380 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:07,380 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:07,380 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:07,622 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:46:07,623 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:09,851 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:09,851 - INFO - Restarting the entire application in 5 seconds...
+2025-12-16 23:46:14,852 - WARNING - Initiating bot restart...
+2025-12-16 23:46:14,953 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:14,953 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:14,953 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:15,180 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:46:15,180 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:18,047 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:18,047 - INFO - Restarting the entire application in 5 seconds...
+2025-12-16 23:46:23,049 - WARNING - Initiating bot restart...
+2025-12-16 23:46:23,142 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:23,142 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:23,142 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:23,379 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:46:23,381 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:24,652 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:24,652 - INFO - Restarting the entire application in 5 seconds...
+2025-12-16 23:46:29,653 - WARNING - Initiating bot restart...
+2025-12-16 23:46:29,759 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:29,759 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:29,759 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:29,980 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:46:29,980 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:32,220 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:32,221 - INFO - Restarting the entire application in 5 seconds...
+2025-12-16 23:46:37,221 - WARNING - Initiating bot restart...
+2025-12-16 23:46:37,324 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:37,324 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:37,324 - ERROR - Failed to close handler -1: [Errno 9] Bad file descriptor
+2025-12-16 23:46:37,557 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-16 23:46:37,557 - INFO - Starting client for ID: 3972478021
+2025-12-16 23:46:40,009 - CRITICAL - A critical error occurred in the main block: 'access_token'
+2025-12-16 23:46:40,009 - INFO - Restarting the entire application in 5 seconds...
+2025-12-17 00:26:12,592 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-17 00:26:12,592 - INFO - Starting client for ID: 4344858240
+2025-12-17 00:26:16,207 - INFO - Token decoded. Account ID: 14136946839
+2025-12-17 00:26:16,207 - INFO - Final token constructed successfully.
+2025-12-17 00:26:16,297 - INFO - [WHISPER] Connected to 98.98.162.69:39801
+2025-12-17 00:26:16,383 - INFO - [ONLINE] Connected to 98.98.162.77:39699
+2025-12-17 00:28:02,268 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-17 00:28:02,268 - INFO - Starting client for ID: 4344858240
+2025-12-17 00:28:05,760 - INFO - Token decoded. Account ID: 14136946839
+2025-12-17 00:28:05,761 - INFO - Final token constructed successfully.
+2025-12-17 00:28:05,829 - INFO - [WHISPER] Connected to 98.98.162.69:39801
+2025-12-17 00:28:05,909 - INFO - [ONLINE] Connected to 98.98.162.77:39699
+2025-12-17 00:29:01,552 - INFO - [AUTO] Auto start loop started for team 6606805
+2025-12-17 00:29:41,599 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:30:23,646 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:31:05,692 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:31:47,738 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:32:29,784 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:33:11,837 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:33:53,881 - INFO - [AUTO] Left team 6606805 to rejoin again.
+2025-12-17 00:34:15,323 - INFO - [AUTO] Auto start loop stopped for team 6606805
+2025-12-17 00:34:38,309 - INFO - Main execution block started (/rio, /stop, /help bot).
+2025-12-17 00:34:38,309 - INFO - Starting client for ID: 4344858240
+2025-12-17 00:34:41,693 - INFO - Token decoded. Account ID: 14136946839
+2025-12-17 00:34:41,693 - INFO - Final token constructed successfully.
+2025-12-17 00:34:41,754 - INFO - [WHISPER] Connected to 98.98.162.69:39801
+2025-12-17 00:34:41,838 - INFO - [ONLINE] Connected to 98.98.162.77:39699
+2025-12-17 00:34:50,608 - INFO - [AUTO] Auto start loop started for team 7038705
+2025-12-17 00:35:30,652 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:36:12,700 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:36:54,746 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:37:36,794 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:38:18,844 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:39:00,890 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:39:42,937 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:40:24,988 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:41:07,034 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:41:49,082 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:42:31,137 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:43:13,182 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:43:55,233 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:44:37,283 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:45:19,334 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:46:01,389 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:46:43,437 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:47:25,483 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:48:07,531 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:48:49,574 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:49:31,620 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:50:13,668 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:50:55,711 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:51:37,759 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:52:19,805 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:53:01,861 - INFO - [AUTO] Left team 7038705 to rejoin again.
+2025-12-17 00:53:43,917 - INFO - [AUTO] Left team 7038705 to rejoin again.
